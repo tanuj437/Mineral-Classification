@@ -49,25 +49,27 @@ BRICS Sentiment Analysis
   |- README.md
 
 |- Model
-  |- .ipynb
+  |- mineral_classification.ipynb
   |- README.md
-  |- lgb_model.pkl
+  |- mineral_classification_model.pkl
 |- Web App
   |- app.py
   |- README.md
 |- Images
-  |- LightGBM_output.png
+  |- CNN_conf.png
   |- README.md
-  |- advance_stacking_output.png
-  |- cmp_all_model.png
-  |- distribution.png
-  |- likecount.png
-  |- lstm_output.png
-  |- mlp_output.png
-  |- simple_neural_network_output.png
-  |- Stacking_classifier_confusion.png
-  |- webapp_run.mp4
-  |-wordcloud.png
+  |- Decision_tree_conf.png
+  |- SVM_conf.png
+  |- classifying_minerals.mp4
+  |- comparision.png
+  |- extra_tree_classification_conf.png
+  |- logistic_regression.png
+  |- mineral_classificaiton.png
+  |- mineral_classificaiton_2.png
+  |- mineral_classificaiton_3.png
+  |- prediction.png
+  |- random_forest_conf.png
+  |- webapp.png
 |- requirements.txt
 |-README.md
 ```
@@ -77,7 +79,7 @@ BRICS Sentiment Analysis
   -Ensure you have the necessary libraries and dependencies installed. You can find the list of required packages in the requirements.txt file.
 
 **Download Data**
-  -Download the brics_comments.csv dataset from Kaggle mentioned in the dataset section of the project.
+  -Download the img dataset from Kaggle mentioned in the dataset section of the project.
 
 **Run the Jupyter Notebook**
   -Open the provided Jupyter Notebook file and run each cell sequentially. Make sure to update any file paths or configurations as needed for your environment.
@@ -91,4 +93,4 @@ BRICS Sentiment Analysis
 Feel free to reach out if you encounter any issues or need further assistance with running the notebook.
 
 ## Connect with Me
-Tanuj Saxena [LinkedIn(https://www.linkedin.com/in/tanuj-saxena-970271252/)]
+Tanuj Saxena [LinkedIn](https://www.linkedin.com/in/tanuj-saxena-970271252/)
