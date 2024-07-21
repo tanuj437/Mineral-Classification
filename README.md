@@ -33,7 +33,7 @@ Mineral Classification involves using machine learning models to automatically c
 
 ### Project Directory Structure
 ```
-BRICS Sentiment Analysis
+Mineral-Classification
 |- Dataset
   |- img
     |- apatite/
